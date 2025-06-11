@@ -1,3 +1,4 @@
 .env
 __pycache__/
 *.pyc
+movie_data.pkl
