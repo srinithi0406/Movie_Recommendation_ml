@@ -1,4 +1,7 @@
 .env
 __pycache__/
 *.pyc
-movie_data.pkl
+
+venv
+
+.ipynb_checkpoints/
