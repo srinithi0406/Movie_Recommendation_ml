@@ -1,5 +1,8 @@
 # Movie Recommendation System
 
+**Live Demo:**  
+https://movies-reccomendation.streamlit.app/
+
 This project is a **content-based movie recommendation system** built using **machine learning** and a sleek **Streamlit** interface. Users can select a movie and receive 10 similar movie recommendations along with their posters and overviews powered by the TMDB API.
 
 ---
@@ -65,3 +68,16 @@ streamlit run app.py
 
 ## Note on `movie_data.pkl`
 Regenerate it by running the `MovieRec.ipynb` notebook **locally**.
+
+---
+
+## Screenshots
+
+
+### Movie Recommendations
+![Home Page](screenshots/sc1.png)
+
+![Recommendations](screenshots/sc3.png)
+
+### Movie Details & Overview
+![Movie Details](screenshots/sc2.png)
